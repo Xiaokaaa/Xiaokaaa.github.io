@@ -17,3 +17,4 @@ Education
 * 2022.09-Now, M.Eng.,  New-Generation Electronic Information Technology, School of Information Engineering, Guangdong University of Technology, Guangzhou.
 * 2018.09-2022.07, B.Eng., Electronic & Information Engineering, School of Mechanical and Electronic Engineering, East China University of Technology, Nanchang.
 
+
