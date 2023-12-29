@@ -9,7 +9,7 @@ redirect_from:
 ---
 我是一名研二在读的学生，就读于[广东工业大学信息工程学院](https://www.gdut.edu.cn/)，目前主要研究兴趣包括车联网安全。
 
-<div align="center">
+联系方式：<div align="left">
   <a href="mailto:1756256417@qq.com">
     <img src="https://img.shields.io/badge/QQ%20Mail-000000?logo=tencent-qq&logoColor=white" alt="QQ 邮箱" />
   </a>
@@ -19,9 +19,7 @@ redirect_from:
 </div>
 
 
-Education
+教育背景
 ======
-* 2022.09-Now, M.Eng.,  New-Generation Electronic Information Technology, School of Information Engineering, Guangdong University of Technology, Guangzhou.
-* 2018.09-2022.07, B.Eng., Electronic & Information Engineering, School of Mechanical and Electronic Engineering, East China University of Technology, Nanchang.
-
-
+* 2022.09-至今  硕士  广东工业大学  新一代电子信息技术（含量子技术等）
+* 2018.09-2022.07  本科  东华理工大学  电子信息工程
