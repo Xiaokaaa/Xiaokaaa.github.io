@@ -1,20 +1,22 @@
 ---
-title: 'Veins_SUMO_OMNeT++'
+title: 'Veins SUMO OMNeT++ 车联网仿真平台操作手册'
 date: 2023-10-14
-permalink: /posts/2023/10/blog-post-1/
+permalink: /posts/veins_sumo_omnetpp/
 tags:
   - Veins
   - SUMO
   - OMNeT++
 ---
 
+
+
 ## 1. Veins & SUMO & OMNeT++ 车联网仿真平台简介
 
-![](./image/Veins/image1.png)
+![](image1.png)
 
 ### 1.1. Veins
 
-![](./image/Veins/image2_veins.gif)
+![](image2_veins.gif)
 
 Veins（Vehicles in Network Simulation）是一个用于运行车辆网络模拟的开源框架，包括一套全面的模型，能够模拟车辆通信系统，包括车对车（Vehicle-to-Vehicle，简称V2V）和车对基础设施（Vehicle-to-Infrastructure，简称V2I）的通信。Veins通过TCP套接字连接基于事件的网络模拟器（OMNeT++）和道路交通模拟器（SUMO）。
 
@@ -45,3 +47,6 @@ Veins 使用 OMNeT++（Objective Modular Network Testbed）作为其网络模拟
 
 - OMNeT++官网链接：[https://omnetpp.org/](https://omnetpp.org/)
 - OMNeT++官方文档：[https://omnetpp.org/documentation/](https://omnetpp.org/documentation/)
+
+
+## 剩余其他内容请访问：[https://github.com/Xiaokaaa/Veins_SUMO_OMNeTpp](https://github.com/Xiaokaaa/Veins_SUMO_OMNeTpp)
