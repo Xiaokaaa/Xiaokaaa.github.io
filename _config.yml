@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Xiaokaaa / Personal Homepage"
+title                    : "小咖的个人主页"
 title_separator          : "-"
-name                     : &name "Xiaokaaa"
+name                     : &name "小咖"
 description              : &description "personal description"
 url                      : "https://xiaokaaa.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Xiaokaaa"
+  name             : "小咖"
   avatar           : "profile.png"
-  bio              : "Keep a clear head"
+  bio              : "时刻保持清醒的头脑！"
   location         : "Guangzhou, China"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
