@@ -7,7 +7,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
 I am a second year graduate student from [School of Information Engineering](https://xxgcxy.gdut.edu.cn/), [Guangdong University of Technology](https://www.gdut.edu.cn/). My research interest includes Internet of Vehicles communication security.
 
 [Email](mailto:1756256417@qq.com) / [Github](https://github.com/Xiaokaaa) / [CSDN](https://blog.csdn.net/qq_51348866/)

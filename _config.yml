@@ -6,12 +6,12 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "zh-CN"
+locale                   : "en-US"
 title                    : "Xiaokaaa / Personal Homepage"
 title_separator          : "-"
 name                     : &name "Xiaokaaa"
 description              : &description "personal description"
-url                      : https://Xiaokaaa.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://Xiaokaaa.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "a second year graduate student from Guangdong University of Technology" # the subpath of your site, e.g. "/blog"
 repository               : "Xiaokaaa/Xiaokaaa.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -83,11 +83,11 @@ author:
   name             : "Xiaokaaa"
   avatar           : "profile.png"
   bio              : "Keep a clear head"
-  location         : "GDUT"
+  location         : "Guangzhou, China"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            :
+  email            : "1756256417@qq.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,14 +96,14 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "Xiaokaaa"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
