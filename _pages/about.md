@@ -13,11 +13,6 @@ redirect_from:
 <a href="https://blog.csdn.net/qq_51348866/"><img src="https://img.shields.io/badge/CSDN-论坛-c32136" /></a>
 
 
-教育背景
-======
-* 2022.09-至今  硕士  广东工业大学  新一代电子信息技术（含量子技术等）
-* 2018.09-2022.07  本科  东华理工大学  电子信息工程
-
 
 兴趣爱好
 ======
@@ -25,6 +20,6 @@ redirect_from:
 
 * 📚 目前正在学习：![Linux Badge](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=flat) ![OpenSSL Badge](https://img.shields.io/badge/OpenSSL-721412?logo=openssl&style=flar) ![C Badge](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=fff&style=flat) ![C++ Badge](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=flat) ![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat) 
 
-* ✨ 读过的书籍：《霍乱时期的爱情》《了不起的盖茨比》《许三观卖血记》《活着》《半生缘》《红玫瑰与白玫瑰》《红与黑》等。
+* ✨ 阅读书籍：《霍乱时期的爱情》《了不起的盖茨比》《许三观卖血记》《活着》《小王子》《半生缘》《红玫瑰与白玫瑰》《红与黑》等。
 
-* 🎮 元梦之星、王者荣耀。
+* 🎮 游戏：元梦之星、王者荣耀。

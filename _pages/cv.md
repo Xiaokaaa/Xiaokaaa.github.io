@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "简历"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,51 +9,15 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+教育背景
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* 2022.09-至今  硕士  广东工业大学  新一代电子信息技术（含量子技术等）
+* 2018.09-2022.07  本科  东华理工大学  电子信息工程
 
-Work experience
+  
+技能
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* ![C Badge](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=fff&style=flat) ![C++ Badge](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=flat)
+* ![Markdown Badge](https://img.shields.io/badge/Markdown-3776AB?logo=markdown&logoColor=fff&style=flat) ![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat) 
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
