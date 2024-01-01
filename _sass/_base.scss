@@ -15,10 +15,6 @@ body {
   font-family: $global-font-family;
   line-height: 1.5;
 
-  background-image: url('/images/profile.png');
-  background-size: cover; /* 可选，根据需要设置 */
-  background-position: center; /* 可选，根据需要设置 */
-
   &.overflow--hidden {
     /* when primary navigation is visible, the content in the background won't scroll */
     overflow: hidden;
