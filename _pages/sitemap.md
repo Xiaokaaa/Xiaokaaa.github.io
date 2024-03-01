@@ -20,7 +20,7 @@ A list of all the posts and pages found on the site. For you robots out there is
 {% endfor %}
 
 <h2>Trips</h2>
-{% for trip in site.trips %}
+{% for post in site.trips %}
   {% include archive-single.html %}
 {% endfor %}
 
