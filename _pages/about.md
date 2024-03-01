@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "嗨~👋，我是小咖"
-excerpt: "嗨~👋，我是小咖"
+title: "嗨👋，我是小咖"
+excerpt: "嗨👋，我是小咖"
 author_profile: true
 redirect_from: 
   - /about/

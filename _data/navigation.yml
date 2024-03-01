@@ -6,6 +6,9 @@ main:
   - title: "简历"
     url: /cv/
 
+  - title: "旅行"
+    url: /trip/
+
   # - title: "Publications"
   #   url: /publications/
 
