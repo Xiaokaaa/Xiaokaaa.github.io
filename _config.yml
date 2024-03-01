@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "小咖的个人主页"
+title                    : "小咖的主页"
 title_separator          : "-"
 name                     : &name "小咖"
 description              : &description "personal description"
