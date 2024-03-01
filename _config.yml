@@ -187,25 +187,14 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
-  # trips:
-  #   output: true
-  #   permalink: /:collection/:path/ 
+  trips:
+    output: true
+    permalink: /trips/:path/
 
 
 # Defaults
 defaults:
   # _posts
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: single
-      author_profile: true
-      read_time: true
-      comments: true
-      share: true
-      related: true
-  # _trips
   - scope:
       path: ""
       type: posts
