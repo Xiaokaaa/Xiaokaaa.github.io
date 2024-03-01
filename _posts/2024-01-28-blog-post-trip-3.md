@@ -1,7 +1,7 @@
 ---
 title: '平潭旅游攻略'
 date: 2024-01-28
-permalink: /trips/2024/01/blog-post-trip-3/
+permalink: /posts/2024/01/blog-post-trip-3/
 tags:
   - 旅游
   - 平潭
