@@ -187,9 +187,9 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
-  trips:
-    output: true
-    permalink: /:collection/:path/ 
+  # trips:
+  #   output: true
+  #   permalink: /:collection/:path/ 
 
 
 # Defaults
@@ -208,7 +208,7 @@ defaults:
   # _trips
   - scope:
       path: ""
-      type: posts
+      type: trips
     values:
       layout: single
       author_profile: true
