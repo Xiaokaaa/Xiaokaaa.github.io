@@ -189,7 +189,7 @@ collections:
     permalink: /:collection/:path/
   trips:
     output: true
-    permalink: /:collection/:name/  
+    permalink: /:collection/:path/ 
 
 
 # Defaults
@@ -208,7 +208,7 @@ defaults:
   # _trips
   - scope:
       path: ""
-      type: trips
+      type: posts
     values:
       layout: single
       author_profile: true
