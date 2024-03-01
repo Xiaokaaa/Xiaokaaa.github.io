@@ -205,7 +205,7 @@ defaults:
   # _trips
   - scope:
       path: ""
-      type: posts
+      type: trips
     values:
       layout: single
       author_profile: true
