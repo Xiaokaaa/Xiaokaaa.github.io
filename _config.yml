@@ -187,6 +187,9 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
+  trips:
+    output: true
+    permalink: /:collection/:name/  
 
 
 # Defaults

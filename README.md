@@ -21,3 +21,11 @@
 * Static files (like PDFs): /files/
 * Profile image (can set in _config.yml): images/profile.png
 ```
+
+- 文件位置: 确保文件是放在正确的文件夹中。你提到的_trips文件夹不是Jekyll的默认文件夹。Jekyll默认从_posts文件夹获取帖子。如果你使用自定义的集合比如_trips，你需要在_config.yml文件中配置它。比如：
+```yaml
+collections:
+  trips:
+    output: true
+    permalink: /:collection/:name/
+```
