@@ -61,7 +61,7 @@ redirect_from:
 
 技能
 ======
-* ![C Badge](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=fff&style=flat) ![C++ Badge](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=flat) ![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat) 
-* ![Markdown Badge](https://img.shields.io/badge/Markdown-3776AB?logo=markdown&logoColor=fff&style=flat) ![Git](https://img.shields.io/badge/-Git-000000?logo=git&logoColor=FF7043) ![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat) 
+* ![C Badge](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=fff&style=flat) ![C++ Badge](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=flat) ![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat) ![Linux Badge](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=flat) ![OpenSSL Badge](https://img.shields.io/badge/OpenSSL-721412?logo=openssl&style=flar)
+* ![Visual Studio Code Badge](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=flat) ![Markdown Badge](https://img.shields.io/badge/Markdown-3776AB?logo=markdown&logoColor=fff&style=flat) ![Git](https://img.shields.io/badge/-Git-000000?logo=git&logoColor=FF7043) ![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat) 
 
 
