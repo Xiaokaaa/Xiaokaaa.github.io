@@ -15,6 +15,11 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %} -->
 
-**Conference**
 
-* **H. Wei**, C. Liu, J. Xu, J. Pan, C. Lane, G. Han, "An Efficient Mutual Authentication Scheme for Edge Computing-Enabled Internet of Vehicles" Submitted to 2024 IEEE Global Communications Conference.
+**Journal**
+
+
+**Conference**
+ <!-- **H. Wei**, C. Liu, J. Xu, J. Pan, C. Lane, G. Han, "An Efficient Mutual Authentication Scheme for Edge Computing-Enabled Internet of Vehicles" Submitted to 2024 IEEE Global Communications Conference. -->
+
+**Patent**
