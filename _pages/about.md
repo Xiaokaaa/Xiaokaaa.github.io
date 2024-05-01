@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "嗨👋，我是小咖"
-excerpt: "嗨👋，我是小咖"
+excerpt: "小咖"
 author_profile: true
 redirect_from: 
   - /about/
@@ -20,6 +20,6 @@ redirect_from:
 
 * 📚 目前正在学习：![Linux Badge](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=flat) ![OpenSSL Badge](https://img.shields.io/badge/OpenSSL-721412?logo=openssl&style=flar) ![C Badge](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=fff&style=flat) ![C++ Badge](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=flat) ![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat) 
 
-* ✨ 阅读书籍：《霍乱时期的爱情》《了不起的盖茨比》《许三观卖血记》《活着》《小王子》《半生缘》《红玫瑰与白玫瑰》《红与黑》等。
+<!-- * ✨ 阅读书籍：《霍乱时期的爱情》《了不起的盖茨比》《许三观卖血记》《活着》《小王子》《半生缘》《红玫瑰与白玫瑰》《红与黑》等。
 
-* 🎮 其他：王者荣耀、桌球。
+* 🎮 其他：王者荣耀、桌球。 -->
