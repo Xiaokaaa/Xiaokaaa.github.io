@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "小咖的主页"
+title                    : "主页"
 title_separator          : "-"
 name                     : &name "小咖"
 description              : &description "personal description"
@@ -15,7 +15,7 @@ url                      : "https://xiaokaaa.github.io" # the base hostname & pr
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Xiaokaaa/Xiaokaaa.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
-breadcrumbs              : true # true, false (default)
+breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
 read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
