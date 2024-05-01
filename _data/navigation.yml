@@ -9,7 +9,7 @@ main:
   - title: "论文"
     url: /publications/
 
-   - title: "旅行"
+  - title: "旅行"
     url: /trips/
     
   # - title: "Talks"
