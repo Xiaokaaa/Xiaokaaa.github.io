@@ -7,8 +7,8 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "小咖的主页"
-title_separator          : "-"
+title                    : "小咖"
+title_separator          : ""
 name                     : &name "小咖"
 description              : &description "personal description"
 url                      : "https://xiaokaaa.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
