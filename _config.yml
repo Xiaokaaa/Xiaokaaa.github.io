@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "主页"
+title                    : "小咖的主页"
 title_separator          : "-"
 name                     : &name "小咖"
 description              : &description "personal description"
@@ -119,9 +119,9 @@ author:
 
 # Reading Files
 include:
-  - .htaccess
-  - _pages
-  - files
+  - .htaccess # 用于Apache服务器的配置文件，控制目录的访问权限。
+  - _pages   # 通常这里存放网页内容或文档
+  - files   # 用于存储项目相关的各类文件。
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
