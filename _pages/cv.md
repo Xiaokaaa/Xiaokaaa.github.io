@@ -23,7 +23,7 @@ redirect_from:
 
 科研成果
 ======
-* **专利**：刘畅、**魏宏敏**等. 一种分布式车联网身份认证系统.
+* **专利**：刘畅,**魏宏敏**等.一种分布式车联网身份认证系统.（授权）
 * **会议**：**WEI H**, LIU C et al. "An Efficient Mutual Authentication Scheme for Edge Computing-Enabled Internet of Vehicles" Submitted to IEEE Global Communications Conference.（通信领域顶会）
 * **期刊**：LIU C, **WEI H**, XU J, HAN G. "CEDA: A Cybertwin-Enabled Distributed Authentication Scheme for the Internet of Vehicles" Submitted to IEEE Transactions on Vehicular Technology.（SCI II区）
 
@@ -52,8 +52,8 @@ redirect_from:
   **项目描述**：旨在设计一种高可靠性和低延迟的分布式车联网身份认证方案，并通过高动态场景的仿真测试来验证该方案的有效性。
   
   **个人贡献**：
-  - 提出了一种高效的分布式车联网相互认证方案，并通过C/C++在车联网仿真平台（Veins、SUMO、OMNeT++）上验证了方案的可行性。结果表明，在保证安全性的同时将认证效率提升了\textbf{60.9\%}。
-  - 申请发明专利一项,发表国际会议和期刊各一篇。同时编写了一个仿真平台操作手册。[[Link]](https://github.com/Internet-of-Vehicles-Code/Veins_SUMO_OMNeTpp)
+  - 提出了一种高效的分布式车联网相互认证方案，并通过C/C++在车联网仿真平台（Veins、SUMO、OMNeT++）上验证了方案的可行性。结果表明，在保证安全性的同时将认证效率提升了**60.9\%**。
+  - 申请发明专利一项，发表国际会议和期刊各一篇。同时编写了一个仿真平台操作手册。[[Link]](https://github.com/Internet-of-Vehicles-Code/Veins_SUMO_OMNeTpp)
   - 技术栈：Ubuntu、C/C++、Python、OpenSSL、Matlab、DSRC、Git。
 
 * **2022.08-2023.01 基于Cohda MK5的车联网任务卸载系统<--->广东工业大学<--->科研项目/参与**
