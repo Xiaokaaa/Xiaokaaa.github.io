@@ -53,7 +53,7 @@ redirect_from:
   
   **个人贡献**：
   - 提出了一种高效的分布式车联网相互认证方案，并通过C/C++在车联网仿真平台（Veins、SUMO、OMNeT++）上验证了方案的可行性。结果表明，在保证安全性的同时将认证效率提升了**60.9\%**。
-  - 申请发明专利一项，发表国际会议和期刊各一篇。同时编写了一个仿真平台操作手册。<a href="https://github.com/Internet-of-Vehicles-Code/Veins_SUMO_OMNeTpp"><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" height="20px" alt="GitHub Logo" /></a>
+  - 申请发明专利一项，发表国际会议和期刊各一篇。同时编写了一个仿真平台操作手册。[[link]](https://github.com/Internet-of-Vehicles-Code/Veins_SUMO_OMNeTpp)
   - 技术栈：Ubuntu、C/C++、Python、OpenSSL、Matlab、DSRC、Git。
 
 * **2022.08-2023.01 基于Cohda MK5的车联网任务卸载系统<--->广东工业大学<--->科研项目/参与**
@@ -61,7 +61,7 @@ redirect_from:
   **项目描述**：本项目旨在基于Cohda MK5设备模拟一个的车联网任务卸载过程，开发Qt性能显示界面。
   
   **个人贡献**：
-  - 使用C++实现UDP Socket通信，实现OBU与RSU间的数据传输，并通过Qt开发显示界面，实时显示传输速率、延迟和数据丢失率等数据传输过程中的各项性能指标。<a href="https://github.com/Xiaokaaa/Qt_ICT"><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" height="20px" alt="GitHub Logo" /></a>
+  - 使用C++实现UDP Socket通信，实现OBU与RSU间的数据传输，并通过Qt开发显示界面，实时显示传输速率、延迟和数据丢失率等数据传输过程中的各项性能指标。[[link]](https://github.com/Xiaokaaa/Qt_ICT)
   - 技术栈：Linux、C/C++、TCP/UDP Socket、Cohda MK5、Qt。
 
 * **2021.07-2022.03 基于STM32的智能门禁系统<--->东华理工大学<--->本科毕业设计/负责**
