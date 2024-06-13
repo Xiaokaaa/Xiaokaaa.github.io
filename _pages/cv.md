@@ -11,58 +11,59 @@ redirect_from:
 
 简介
 ======
-电子信息工程专业（车联网方向）硕士研究生，研究方向涵盖车联网、身份认证、网络孪生、攻击检测等，擅长多任务处理与项目管理，熟悉C/C++、Python编程语言，掌握Linux操作系统及常用命令、TCP/UDP网络编程、Qt开发等。
+电子信息工程专业（车联网方向）硕士研究生，研究方向涵盖车联网、身份认证、网络孪生、攻击检测等，擅长多任务处理与项目管理，熟悉C/C++、Python编程语言，掌握Linux操作系统及常用命令、TCP/UDP网络编程、Qt开发等。了解CAN总线通信，AUTOSAR系统架构和接口标准及CANoe开发工具。
 
 
 教育经历
 ======
 * 2022.09-至今  广东工业大学·信息工程学院  新一代电子信息技术·硕士研究生
-  * CET-6、研究生入学奖学金、学业二等奖学金。
+  * CET-6、研究生入学奖学金、研究生学业二等奖学金。
 * 2018.09-2022.07  东华理工大学·机械与电子工程学院  电子信息工程·本科
-  * CET-4、计算机二级·C语言（优秀）、夏令营“游学编程”比赛一等奖（5\%）、美国数学建模竞赛S奖、学业三等奖学金。
+  * CET-4、计算机二级·C语言（优秀）、夏令营“游学编程”比赛一等奖（5%）、美国数学建模竞赛S奖、学业三等奖学金。
 
 科研成果
 ======
-* **专利**：刘畅,**魏宏敏**等.一种分布式车联网身份认证系统.（授权）
+* **专利**：刘畅, **魏宏敏**等. 一种分布式车联网身份认证系统. 发明专利授权号：ZL 202410372138.8.（授权）
 * **会议**：**WEI H**, LIU C et al. "An Efficient Mutual Authentication Scheme for Edge Computing-Enabled Internet of Vehicles" Submitted to IEEE Global Communications Conference.（通信领域顶会）
 * **期刊**：LIU C, **WEI H**, XU J, HAN G. "CEDA: A Cybertwin-Enabled Distributed Authentication Scheme for the Internet of Vehicles" Submitted to IEEE Transactions on Vehicular Technology.（SCI II区）
 
 
 专业技能
 ======
-- 熟悉C/C++、Python、Matlab，掌握基本的数据结构和算法，具有良好的编程习惯。
+- 熟悉C/C++、STL容器，了解Python、Matlab语法，掌握基本的数据结构和算法，具有良好的编程习惯。
 - 熟悉Linux操作系统及常用命令，了解Makefile的编写与应用。
 - 熟悉TCP和UDP协议的工作原理及应用，了解多线程技术，有Socket网络编程经验。
-- 能够基于C++/Python在Qt Creator上实现简单的界面开发。
-- 熟练运用 Git、VSCode、Markdown、Visio、Office等工具，具备良好的文档编写与项目管理能力。
-- CET-6，具备一定外文文献阅读与日常沟通能力，有良好团队合作精神。
-
+- 能够基于C++/Python在Qt Creator上实现简单的界面开发，有Qt界面开发经验。
+- 熟练运用 Git、GitHub、VSCode、Markdown、Visio、Office等工具，具备良好的文档编写与项目管理能力
+- 通过大学英语六级，具备一定外文文献阅读与日常沟通能力，有良好团队合作精神。
+* ![C Badge](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=fff&style=flat) ![C++ Badge](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=flat) ![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat) ![Linux Badge](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=flat) ![OpenSSL Badge](https://img.shields.io/badge/OpenSSL-721412?logo=openssl&style=flar)
+* ![Visual Studio Code Badge](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=flat) ![Markdown Badge](https://img.shields.io/badge/Markdown-3776AB?logo=markdown&logoColor=fff&style=flat) ![Git](https://img.shields.io/badge/-Git-000000?logo=git&logoColor=FF7043) ![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat) 
 
 项目经验
 ======
 * **2024.03-至今 长距离隧道多模态无线组网技术研究<--->中铁建华南建设有限公司<--->企业项目/参与**
   
-  **项目描述**：旨在考虑经济性等指标前提下提高长距离隧道环境下无线视频数据传输的可靠性。
+  **项目描述**：旨在考虑经济性等指标前提下提升长距离隧道环境下无线视频数据传输的质量与可靠性。
 
   **个人贡献**：
-  - 针对隧道特殊地形（如弯道）中信号传播特性，建立了基于Matlab的隧道传输模型。拟采用多RIS辅助5G基站使得整个隧道内的信号覆盖更加均匀和稳定，提高隧道内的通信质量。
+  - 针对长距离隧道中信号传播特性，建立了基于Matlab的隧道信号传输模型，采用多功能智能表面辅助5G基站，动态优化信号的传播路径，增强了信号强度和稳定性，实现隧道内高效地数据传输。
 
 * **2023.02-2024.04  分布式车联网身份认证认证方案研究<--->广东工业大学<--->科研项目/负责**
   
-  **项目描述**：旨在设计一种高可靠性和低延迟的分布式车联网身份认证方案，并通过高动态场景的仿真测试来验证该方案的有效性。
+  **项目描述**：旨在设计一种高效的分布式车联网身份认证方案，并通过仿真测试验证方案的有效性。
   
   **个人贡献**：
-  - 提出了一种高效的分布式车联网相互认证方案，并通过C/C++在车联网仿真平台（Veins、SUMO、OMNeT++）上验证了方案的可行性。结果表明，在保证安全性的同时将认证效率提升了**60.9\%**。
-  - 申请发明专利一项，发表国际会议和期刊各一篇。同时编写了一个仿真平台操作手册。[[link]](https://github.com/Internet-of-Vehicles-Code/Veins_SUMO_OMNeTpp)
-  - 技术栈：Ubuntu、C/C++、Python、OpenSSL、Matlab、DSRC、Git。
+  - 提出了一种高可靠性、低延迟的分布式车联网相互认证方案，在基于C/C++的开源OpenSSL加密库，实现了协议中用到的ECDSA、DH等协议，并基于C/C++在车联网仿真平台（Veins、SUMO、OMNeT++）中仿真部署了方案，结果表明，在保证安全性的同时将认证效率提升了**60.9%**。
+  - 发明专利一项,发表国际会议和期刊各一篇，同时编写了仿真平台操作手册及相关CSDN博客。[[GitHub]](https://github.com/Internet-of-Vehicles-Code/Veins_SUMO_OMNeTpp) [[CSDN]](https://blog.csdn.net/qq_51348866/category_12475403.html?spm=1001.2014.3001.5482)
+  - 技术栈：技术栈：Linux、C/C++、STL、Python、OpenSSL、Matlab、Git。。
 
 * **2022.08-2023.01 基于Cohda MK5的车联网任务卸载系统<--->广东工业大学<--->科研项目/参与**
   
-  **项目描述**：本项目旨在基于Cohda MK5设备模拟一个的车联网任务卸载过程，开发Qt性能显示界面。
+  **项目描述**：旨在基于Cohda MK5设备模拟一个的车联网任务卸载过程，开发Qt性能显示界面。
   
   **个人贡献**：
-  - 使用C++实现UDP Socket通信，实现OBU与RSU间的数据传输，并通过Qt开发显示界面，实时显示传输速率、延迟和数据丢失率等数据传输过程中的各项性能指标。[[link]](https://github.com/Xiaokaaa/Qt_ICT)
-  - 技术栈：Linux、C/C++、TCP/UDP Socket、Cohda MK5、Qt。
+  - 基于Cohda MK5设备（包括OBU、RSU），使用 C++基于 UDP 协议编写车联网客户端和服务器端BSM消息通信程序，并通过Qt Creator开发程序显示界面，实时显示传输速率、延迟和数据丢失率等数据传输过程中的各项性能指标。[[link]](https://github.com/Xiaokaaa/Qt_ICT)
+  - 技术栈：Linux、Cohda MK5、C/C++、TCP/UDP、Socket、Qt Creator。
 
 * **2021.07-2022.03 基于STM32的智能门禁系统<--->东华理工大学<--->本科毕业设计/负责**
   
@@ -95,9 +96,7 @@ redirect_from:
 * 2022 研究生入学奖学金
 * 2023 研究生学业二等奖学金
 
-技能
+
+个人评价
 ======
-* ![C Badge](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=fff&style=flat) ![C++ Badge](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=flat) ![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat) ![Linux Badge](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=flat) ![OpenSSL Badge](https://img.shields.io/badge/OpenSSL-721412?logo=openssl&style=flar)
-* ![Visual Studio Code Badge](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=flat) ![Markdown Badge](https://img.shields.io/badge/Markdown-3776AB?logo=markdown&logoColor=fff&style=flat) ![Git](https://img.shields.io/badge/-Git-000000?logo=git&logoColor=FF7043) ![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat) 
-
-
+热爱编程，有较强的学习能力，性格开朗、踏实、稳重、有活力，懂得不断从生活和学习中提高和完善自己。有强烈的求知欲、好奇心，能及时关注和学习业界最新技术。
