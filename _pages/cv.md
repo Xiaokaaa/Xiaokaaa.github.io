@@ -23,9 +23,9 @@ redirect_from:
 
 科研成果
 ======
-* **专利**：刘畅, **魏宏敏**等. 一种分布式车联网身份认证系统. 发明专利授权号：ZL 202410372138.8.（授权）
-* **会议**：**WEI H**, LIU C et al. "An Efficient Mutual Authentication Scheme for Edge Computing-Enabled Internet of Vehicles" Submitted to IEEE Global Communications Conference.（通信领域顶会）
-* **期刊**：LIU C, **WEI H**, XU J, HAN G. "CEDA: A Cybertwin-Enabled Distributed Authentication Scheme for the Internet of Vehicles" Submitted to IEEE Transactions on Vehicular Technology.（SCI II区）
+* **专利**：一种分布式车联网身份认证系统. 发明专利授权号：ZL 202410372138.8.（第二发明人，已授权）
+* **会议**：**WEI H** et al. "An Efficient Mutual Authentication Scheme for Edge Computing-Enabled Internet of Vehicles" Submitted to IEEE Global Communications Conference.（一作，通信领域顶会）
+* **期刊**：**WEI H** et al. "CEDA: A Cybertwin-Enabled Distributed Authentication Scheme for the Internet of Vehicles" Submitted to IEEE Transactions on Vehicular Technology.（二作，SCI II区）
 
 
 专业技能
@@ -39,9 +39,11 @@ redirect_from:
 * ![C Badge](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=fff&style=flat) ![C++ Badge](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=flat) ![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat) ![Linux Badge](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=flat) ![OpenSSL Badge](https://img.shields.io/badge/OpenSSL-721412?logo=openssl&style=flar)
 * ![Visual Studio Code Badge](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=flat) ![Markdown Badge](https://img.shields.io/badge/Markdown-3776AB?logo=markdown&logoColor=fff&style=flat) ![Git](https://img.shields.io/badge/-Git-000000?logo=git&logoColor=FF7043) ![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat) 
 
-项目经验
+项目/实习经历
 ======
-* **2024.03-至今 长距离隧道多模态无线组网技术研究<--->中铁建华南建设有限公司<--->企业项目/参与**
+* **2024.07-至今 德赛西威汽车电子股份有限公司<--->实习**
+
+* **2024.03-2024.06 长距离隧道多模态无线组网技术研究<--->中铁建华南建设有限公司<--->企业项目/参与**
   
   **项目描述**：旨在考虑经济性等指标前提下提升长距离隧道环境下无线视频数据传输的质量与可靠性。
 

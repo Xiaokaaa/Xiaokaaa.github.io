@@ -23,4 +23,4 @@ author_profile: true
  <!-- **H. Wei**, C. Liu, J. Xu, J. Pan, C. Lane, G. Han, "An Efficient Mutual Authentication Scheme for Edge Computing-Enabled Internet of Vehicles" Submitted to 2024 IEEE Global Communications Conference. -->
 
 **Patent**
-- 刘畅,**魏宏敏**等.一种分布式车联网身份认证系统.（授权）
+- 一种分布式车联网身份认证系统. 发明专利授权号：ZL 202410372138.8.（第二发明人，已授权）
