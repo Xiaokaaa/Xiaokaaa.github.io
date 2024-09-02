@@ -66,7 +66,7 @@ redirect_from:
   **个人贡献**：
   - 提出了一种高可靠性、低延迟的分布式车联网相互认证方案，在基于C/C++的开源OpenSSL加密库，实现了协议中用到的ECDSA、DH等协议，并基于C/C++在车联网仿真平台（Veins、SUMO、OMNeT++）中仿真部署了方案，结果表明，在保证安全性的同时将认证效率提升了**60.9%**。
   - 发明专利一项,发表国际会议和期刊各一篇，同时编写了仿真平台操作手册及相关CSDN博客。[[GitHub]](https://github.com/Internet-of-Vehicles-Code/Veins_SUMO_OMNeTpp) [[CSDN]](https://blog.csdn.net/qq_51348866/category_12475403.html?spm=1001.2014.3001.5482)
-  - 技术栈：技术栈：Linux、C/C++、STL、Python、OpenSSL、Matlab、Git。。
+  - 技术栈：技术栈：Linux、C/C++、STL、Python、OpenSSL、Matlab、Git。
 
 * **2022.08-2023.01 基于Cohda MK5的车联网任务卸载系统<--->广东工业大学<--->科研项目/参与**
   
