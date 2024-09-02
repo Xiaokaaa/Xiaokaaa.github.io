@@ -20,7 +20,7 @@ author_profile: true
 
 
 **Conference**
-"An Efficient Mutual Authentication Scheme for Edge Computing-Enabled Internet of Vehicles" IEEE Global Communications Conference. 2024.
+- "An Efficient Mutual Authentication Scheme for Edge Computing-Enabled Internet of Vehicles" IEEE Global Communications Conference. 2024.
 
 **Patent**
 - 一种分布式车联网身份认证系统. 发明专利授权号：ZL 202410372138.8.（第二发明人，已授权）
