@@ -25,7 +25,7 @@ redirect_from:
 ======
 * **专利**：一种分布式车联网身份认证系统. 发明专利授权号：ZL 202410372138.8.（第二发明人，已授权）
 * **会议**：**WEI H** et al. "An Efficient Mutual Authentication Scheme for Edge Computing-Enabled Internet of Vehicles" IEEE Global Communications Conference. 2024.（一作，通信领域顶会）
-* **期刊**：**WEI H** et al. "CEDA: A Cybertwin-Enabled Distributed Authentication Scheme for the Internet of Vehicles" Submitted to IEEE Transactions on Vehicular Technology.（二作，SCI II区）
+<!-- * **期刊**：**WEI H** et al. "CEDA: A Cybertwin-Enabled Distributed Authentication Scheme for the Internet of Vehicles" Submitted to IEEE Transactions on Vehicular Technology.（二作，SCI II区） -->
 
 
 专业技能
@@ -48,8 +48,8 @@ redirect_from:
   **实习岗位**：智能座舱事业部-嵌入式软件开发岗
   
   **实习内容**：
-  - 根据露营车集成控制面板软件需求文档编写软件架构设计文档，确保软件设计满足功能需求。使用UML工具绘制软件状态活动图以展示系统状态转换和活动流程；创建各模块依赖图，明确接口交互关系。
-  - 运用Green Hills软件开发工具链对代码进行调整和优化；整理各模块接口表，确保接口定义清晰、一致，促进模块间的有效通信和集成。协同团队成员进行系统集成测试。
+  - 根据软件需求文档编写软件架构设计文档，确保软件设计满足功能需求。使用UML工具绘制软件状态活动图以展示系统状态转换和活动流程；创建各模块依赖图，明确接口交互关系。
+  - 对代码进行调整和优化；整理各模块接口表，确保接口定义清晰、一致，促进模块间的有效通信和集成。协同团队成员进行系统集成测试。
   - 学习AUTOSAR架构、CANoe工具，熟悉ASPICE软件开发流程。
 
 * **2024.03-2024.06 长距离隧道多模态无线组网技术研究<--->中铁建华南建设有限公司<--->企业项目/参与**
@@ -106,6 +106,7 @@ redirect_from:
 * 2021 中共党员
 * 2022 研究生入学奖学金
 * 2023 研究生学业二等奖学金
+* 2024 研究生学业一等奖学金
 
 
 个人评价
