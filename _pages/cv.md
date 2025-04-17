@@ -24,8 +24,8 @@ redirect_from:
 科研成果
 ======
 * **专利**：一种分布式车联网身份认证系统. 发明专利授权号：ZL 202410372138.8.（第二发明人，已授权）
-* **会议**：**WEI H** et al. "An Efficient Mutual Authentication Scheme for Edge Computing-Enabled Internet of Vehicles" IEEE Global Communications Conference. 2024.（一作，通信领域顶会）
-<!-- * **期刊**：**WEI H** et al. "CEDA: A Cybertwin-Enabled Distributed Authentication Scheme for the Internet of Vehicles" Submitted to IEEE Transactions on Vehicular Technology.（二作，SCI II区） -->
+* **美国专利：Identity Authentication System for Distributed Internet of Vehicles. US Patent 18/825,028, Issued on February 11, 2025.（第二发明人，已授权）
+* **会议**："An Efficient Mutual Authentication Scheme for Edge Computing-Enabled Internet of Vehicles" IEEE Global Communications Conference. 2024.（第一作者，已收录）
 
 
 专业技能
